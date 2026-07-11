@@ -1,0 +1,4 @@
+ezdxf
+svgpathtools
+lxml
+numpy
